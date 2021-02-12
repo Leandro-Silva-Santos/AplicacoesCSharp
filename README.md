@@ -1,2 +1,2 @@
-# AplicacoesCSharp
- Aplicações simples na linguagem C# 
+# Aplicações C#
+ Aplicações simples do curso de C# básico da --Fundação Bradesco--
